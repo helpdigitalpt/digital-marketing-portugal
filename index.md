@@ -11,7 +11,7 @@ Help Digital is a digital marketing agency that uses the power of digital strate
 
 Let's give you that Digital Help! If you already have a website, this is your chance to receive a free marketing analysis of your business, including social and competition analysis.
 
-[✔️ I want the free analysis!](https://www.helpdigital.pt/wp-content/uploads/2020/01/Help-Agencia-Digital-Lisboa-2480px.png)
+[✔️ I want the free analysis!](https://www.helpdigital.pt/analise-marketing-digital-gratuita/)
 
 ### Need a website?
 We do Maintenance, Restructuring and Creation of Professional Customized Sites, fast and with perfect functioning on mobile phones and tablets.
