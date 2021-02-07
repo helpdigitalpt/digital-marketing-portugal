@@ -31,7 +31,7 @@ We create better texts for the institutional and sales pages of your project, up
 ```markdown
 - [x] E-mail: contato@helpdigital.pt
 - [x] Phone: +351 919 609 154 (WhatsApp)
-- [x] Site: https://www.helpdigital.pt/(https://www.helpdigital.pt/)
+- [x] Site: [https://www.helpdigital.pt/](https://www.helpdigital.pt/)
 ```
 
 ![Help Digital Marketing Agency Portugal](https://multichannelmerchant.com/wp-content/uploads/2018/07/digitalmarketing850.jpg)
